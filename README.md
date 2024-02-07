@@ -94,4 +94,135 @@
         </div>
     </footer>
   </body>
-</html>
+  </html>
+<!-- @import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;1,300&family=Roboto+Slab&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  color: white;
+}
+.headcontent {
+  width: 100%;
+  background-image: url(image/navbar5.jpg);
+  /* background-position: center; */
+  filter: blur(1px);
+  filter: contrast();
+  text-shadow: black 2px -2px 2px;
+  display: flex;
+
+  justify-content: center;
+  border-top-right-radius: 5px;
+  border-top-left-radius: 5px;
+}
+.headcontent h1 {
+  padding: 8px 0px 5px;
+  display: flex;
+  align-items: center;
+  letter-spacing: 5px;
+  font-family: "Roboto Slab", serif "Baloo Bhai 2", sans-serif;
+}
+main {
+  background-image: url(image/back4.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 75vh;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: "poppins" "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.namesection {
+  align-items: flex-start;
+}
+
+.contentbox {
+  width: 80vw;
+  height: 68vh;
+  background: rgba(30, 30, 30, 0.23);
+
+  border: 1px solid rgba(235, 218, 218, 0.15);
+  border-radius: 16px;
+  text-shadow: 2px -2px 1px black;
+  display: flex;
+  justify-content: space-evenly;
+  padding: 0;
+  margin: 0%;
+  flex-wrap: wrap;
+  overflow: scroll;
+}
+
+.contentbox::-webkit-scrollbar {
+  display: none;
+}
+
+.headbar {
+  position: relative;
+  width: 100vw;
+  border: 2px solid white;
+  height: 3vh;
+}
+
+.size {
+  height: 10vh;
+  width: 10vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 40px;
+  text-align: center;
+  padding: 15px;
+}
+.photo {
+  width: 4vw;
+  margin: 0;
+  border-radius: 50%;
+}
+
+.photo:hover {
+  box-shadow: 0px 0px 5px white, 0 0 25px white, 0 0 50px white, 0 0 100px white,
+    0 0 200px white;
+  transition: ease-in-out;
+  transition: 0.4s;
+}
+
+a {
+  text-decoration: none;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.foot_panel1 {
+  background-color: #37475a;
+  color: white;
+  height: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.2rem;
+}
+.foot_panel2 {
+  display: flex;
+  width: 100%;
+  padding: 11px 0px 16px;
+  background-color: #222f3d;
+  justify-content: space-evenly;
+}
+ul a {
+  display: block;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 13px;
+  font-weight: 100;
+}
+ul p {
+  font-size: 19px;
+  font-weight: 600;
+}
+.last {
+  padding: 20px;
+  text-align: center;
+  font-size: 20px;
+  background-color: #3f6599;
+}
+ -->
+
